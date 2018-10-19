@@ -1,3 +1,10 @@
+#leftcol { /* Левая колонка */
+  float: left; /* Обтекание справа */
+  width: 200px; /* Ширина колонки */
+}
+#rightcol { /* Правая колонка */
+  margin-left: 15%; /* Отступ слева */
+}
 a{
 color: #DAA520;
 font-size: 30px;

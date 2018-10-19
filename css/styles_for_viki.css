@@ -1,4 +1,11 @@
+#leftcol { /* Левая колонка */
+  float: left; /* Обтекание справа */
+  width: 200px; /* Ширина колонки */
+}
+#rightcol { /* Правая колонка */
+  margin-left: 225px; /* Отступ слева */
 
+}
 img{
 border: groove 8px;
 }
